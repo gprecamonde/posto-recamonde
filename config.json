@@ -1,0 +1,46 @@
+{
+  "empresa": {
+    "nome": "Posto Recamonde",
+    "subtitulo": "Você em primeiro lugar!"
+  },
+  "app": {
+    "nome_completo": "Grupo Recamonde",
+    "versao": "1.0.0.0"
+  },
+  "tema": {
+    "cor_primaria": "#E08A2E",
+    "cor_secundaria": "#D6762C",
+    "cor_destaque": "#8E9A4A",
+    "cor_fundo": "#F1F3F5",
+    "cor_card": "#FFFFFF",
+    "cor_texto": "#2E2E2E"
+  },
+  "site": {
+    "url": "https://gprecamonde.github.io/analise-postos",
+    "imagem": "img/icon-512.png"
+  },
+  "branding": {
+    "favicon": "img/icon-192.png",
+    "logo": "img/logoA.png",
+    "logo_alt": "Gp. Recamonde"
+  },
+  "localizacao": [
+    {
+      "nome": "Posto Recamonde",
+      "lat": -3.7813283,
+      "lng": -38.5648993,
+      "link": "https://maps.app.goo.gl/f1qjb58uDt19X1xN6"
+    }
+  ],
+  "unidades": [
+    {
+      "nome": "Posto Recamonde",
+      "abastecimentos": [
+        {
+          "nome": "Ranking de Abastecimento",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzQ4OTE1M2EtOGY4MC00MmQ3LTgzNDUtMzZhZTU2MDNmY2VlIiwidCI6ImI4ZjViYWE0LTJkZTctNDlhZi1iZWM4LTgxNmZjNjY1OTI0MSJ9"
+        }
+      ]
+    }
+  ]
+}
